@@ -1,0 +1,20 @@
+h1{
+    color: #F2A26D;
+    text-align: center;
+    
+}
+body{
+     background-color: rgb(15, 15, 82);
+}
+a{
+    color:#FCE772;
+    font-size: 25px;
+}
+h2{
+    color: rgb(0, 174, 255);
+    text-align: center;
+}
+p{
+    color: plum;
+    size: 200px;
+}
