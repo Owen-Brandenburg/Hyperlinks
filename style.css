@@ -1,7 +1,7 @@
 h1{
     color: #F2A26D;
     text-align: center;
-    
+    font-size: 75px;
 }
 body{
      background-color: rgb(15, 15, 82);
@@ -18,3 +18,17 @@ p{
     color: plum;
     size: 200px;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+  
